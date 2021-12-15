@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/wether_app/static/css/main.d872e535.chunk.css",
+    "main.js": "/wether_app/static/js/main.95915ace.chunk.js",
+    "main.js.map": "/wether_app/static/js/main.95915ace.chunk.js.map",
+    "runtime-main.js": "/wether_app/static/js/runtime-main.7c8aab55.js",
+    "runtime-main.js.map": "/wether_app/static/js/runtime-main.7c8aab55.js.map",
+    "static/js/2.c3b8dafa.chunk.js": "/wether_app/static/js/2.c3b8dafa.chunk.js",
+    "static/js/2.c3b8dafa.chunk.js.map": "/wether_app/static/js/2.c3b8dafa.chunk.js.map",
+    "static/js/3.bd2a0133.chunk.js": "/wether_app/static/js/3.bd2a0133.chunk.js",
+    "static/js/3.bd2a0133.chunk.js.map": "/wether_app/static/js/3.bd2a0133.chunk.js.map",
+    "index.html": "/wether_app/index.html",
+    "static/css/main.d872e535.chunk.css.map": "/wether_app/static/css/main.d872e535.chunk.css.map",
+    "static/js/2.c3b8dafa.chunk.js.LICENSE.txt": "/wether_app/static/js/2.c3b8dafa.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/wether_app/static/media/photo_2021-12-09_20-25-26.fed6795e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c8aab55.js",
+    "static/js/2.c3b8dafa.chunk.js",
+    "static/css/main.d872e535.chunk.css",
+    "static/js/main.95915ace.chunk.js"
+  ]
+}
